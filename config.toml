@@ -9,7 +9,7 @@ publishDir = "docs"
 
 [params]
   description = "Your site description"
-  copyright = "Copyright Â© 2020 Your Name"
+  copyright = "Copyright © 2020 Leo Delima"
   dark = "auto"
   highlight = true
 
