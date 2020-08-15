@@ -2,20 +2,6 @@
 title = "About"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+The acronym “afk”, short for “away from keyboard,” was used back in the 90s when boomers had to tell their AOL chatrooms they were leaving their computer for a bit, but would be back later. Similarly, {afkbookclub} isn’t about complete disconnection from the Internet. It’s about taking a step back to be mindful of how we spend our time both online and offline. We know about the good the Internet can achieve, but we also know too much of a good thing can be bad. Through book reading and discussion, we aim to take control of our relationship with technology and focus on overall self-development.
 
-Hugo makes use of a variety of open source projects including:
-
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+We're hosted on mataroa.blog to minimize all distractions and to keep the focus on reading, discussion, and participation of our members!
