@@ -1,39 +1,31 @@
 baseURL = "https://afkbookclub.github.io/blog/"
-title = "{afkbookclub}"
-theme = "etch"
-languageCode = "en-US"
 enableInlineShortcodes = true
+languageCode = "en-US"
+publishDir = "docs"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
-publishDir = "docs"
-
-[params]
-  description = "disconnect deliberately"
-  copyright = "Copyright 2020 Leo Delima"
-  dark = "auto"
-  highlight = true
-
-[menu]
-  [[menu.main]]
-    identifier = "posts"
-    name = "posts"
-    title = "posts"
-    url = "/"
-    weight = 10
-
-  [[menu.main]]
-    identifier = "about"
-    name = "about"
-    title = "about"
-    url = "/about/"
-    weight = 20
-
-[permalinks]
-  posts = "/:title/"
-
+theme = "etch"
+title = "{afkbookclub}"
 [markup.goldmark.renderer]
-  # Allow HTML in Markdown
-  unsafe = true
-
-  [markup.tableOfContents]
-    ordered = true
+unsafe = true
+[markup.tableOfContents]
+ordered = true
+[[menu.main]]
+identifier = "about"
+name = "about"
+title = "about"
+url = "/about/"
+weight = 2
+[[menu.main]]
+identifier = "posts"
+name = "posts"
+title = "posts"
+url = "/"
+weight = 1
+[params]
+copyright = "Copyright 2020 Leo Delima"
+dark = "auto"
+description = "disconnect deliberately"
+highlight = true
+[permalinks]
+posts = "/:title/"
