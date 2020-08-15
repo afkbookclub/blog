@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://afkbookclub.github.io/blog"
 title = "Website Name"
 theme = "etch"
 languageCode = "en-US"
